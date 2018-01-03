@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.luwei.girl.properties.GirlProperties",
+      "name": "girl",
+      "type": "com.luwei.girl.properties.GirlProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.luwei.girl.properties.GirlProperties",
+      "name": "girl.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.luwei.girl.properties.GirlProperties",
+      "name": "girl.cup-size",
+      "type": "java.lang.String"
+    }
+  ]
+}
