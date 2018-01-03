@@ -1,0 +1,6 @@
+/target
+
+.gitignore.swp
+.idea/vcs.xml
+
+.idea/workspace.xml
